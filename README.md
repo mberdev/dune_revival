@@ -3,8 +3,10 @@ Some C++ and ScummVM-compatible code that can decode resource files from the 199
 
 # details
 
-This is the unfinished code for adding the games of videogames company "Cryo" to the ScummVM engine.
-the code in this repo focuses specifically on "Dune", aka "Dune 1".
+**This is actually several projects in one :**
+- There is some unfinished code for adding the games of videogames company "Cryo" to the ScummVM engine (however the code in this repo focuses specifically on "Dune", aka "Dune 1")
+- There is an unfinished standalone C++ project to create a clone of Dune 1.
+- Interestingly, one of the projects includes a small voxel rendering (in the style of videogames Outcast or Comanche) inspired by the ornithopter travelling sequence in Dune.
 
 # highlight
 
