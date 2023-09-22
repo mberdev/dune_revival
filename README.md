@@ -43,7 +43,7 @@ History of the project : http://forum.dune2k.com/index.php?/topic/17217-rewritin
 
 # Some related projects
 
-- github.com/OpenRakis/OpenRakis
-- github.com/sonicpp/dunerevival-code
-- zwomp.com/index.php/2019/07/22/exploring-the-dune-files-part-1-the-hsq-file-format/
-- github.com/jeancallisti/hsqLib
+- https://github.com/OpenRakis/OpenRakis
+- https://github.com/sonicpp/dunerevival-code
+- https://zwomp.com/index.php/2019/07/22/exploring-the-dune-files-part-1-the-hsq-file-format/
+- https://github.com/jeancallisti/hsqLib
