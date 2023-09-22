@@ -36,7 +36,7 @@ http://wiki.scummvm.org/index.php/Compiling_ScummVM
 - PierroElMito
 - MD5
 
-Plus some precious technical data provided by RDOS aka Roman Dos(jevsky?)
+Plus some precious technical data provided by RDOS aka Roman Dolejší
 
 # Some links (not maintained)
 
