@@ -39,9 +39,9 @@ http://wiki.scummvm.org/index.php/Compiling_ScummVM
 
 # Some links (not maintained)
 
-Wiki: https://sourceforge.net/apps/mediawiki/dunerevival/index.php?title=Main_Page
-Forums: https://sourceforge.net/apps/phpbb/dunerevival/
-History of the project : http://forum.dune2k.com/index.php?/topic/17217-rewriting-cryos-dune-1-it-seems-possible/page__view__findpost__p__358509
+- Wiki: https://sourceforge.net/apps/mediawiki/dunerevival/index.php?title=Main_Page
+- Forums: https://sourceforge.net/apps/phpbb/dunerevival/
+- History of the project : http://forum.dune2k.com/index.php?/topic/17217-rewriting-cryos-dune-1-it-seems-possible/page__view__findpost__p__358509
 
 # Some related projects
 
