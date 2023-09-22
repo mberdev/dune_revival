@@ -28,11 +28,11 @@ http://wiki.scummvm.org/index.php/Compiling_ScummVM
 
 # Original contributors
 
-
-- Filippos Karapetis (admin)
-- JEROME BIGOT (admin)
-- Monsieur OUXX (admin)
-- PierroElMito (admin)
+- Monsieur OUXX
+- Filippos Karapetis
+- JEROME BIGOT
+- PierroElMito
+- MD5
 
 
 # Some links (not maintained)
