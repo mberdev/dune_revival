@@ -25,3 +25,25 @@ THIS REPO DOES NOT CONTAIN THE RESOURCE FILES FOR DUNE. YOU NEED TO PURCHASE THE
 
 Compilation instructions for ScummVM can be found in its relevant wiki section:
 http://wiki.scummvm.org/index.php/Compiling_ScummVM
+
+# Original contributors
+
+
+- Filippos Karapetis (admin)
+- JEROME BIGOT (admin)
+- Monsieur OUXX (admin)
+- PierroElMito (admin)
+
+
+# Some links (not maintained)
+
+Wiki: https://sourceforge.net/apps/mediawiki/dunerevival/index.php?title=Main_Page
+Forums: https://sourceforge.net/apps/phpbb/dunerevival/
+History of the project : http://forum.dune2k.com/index.php?/topic/17217-rewriting-cryos-dune-1-it-seems-possible/page__view__findpost__p__358509
+
+# Some related projects
+
+- github.com/OpenRakis/OpenRakis
+- github.com/sonicpp/dunerevival-code
+- zwomp.com/index.php/2019/07/22/exploring-the-dune-files-part-1-the-hsq-file-format/
+- github.com/jeancallisti/hsqLib
