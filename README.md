@@ -1,3 +1,11 @@
+# This code base is 15 years old! 
+## It's a backup from an archaic SourceForge SVN repo. Everything here is outdated and some of it has questionable coding style!
+
+
+.
+.
+.
+
 # dune_revival
 Some C++ and ScummVM-compatible code that can decode resource files from the 1992 videogame "Dune" aka "Dune 1" by Cryo
 
